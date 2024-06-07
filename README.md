@@ -1,6 +1,8 @@
 # first
+![Screenshot_1717779871](https://github.com/tanishaa-p/first/assets/143655963/681253c0-e3e9-4a0a-ac6e-070ef6ffd7ed)
 
-A new Flutter project.
+
+A very basic Flutter application page to explore widgets and containers and their attributes. 
 
 ## Getting Started
 
