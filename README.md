@@ -1,6 +1,7 @@
 # first
 
-![Screenshot_1717779871](https://github.com/tanishaa-p/first/assets/143655963/a47b5ce5-4efc-4d35-8154-d1629777f0e0)
+![Screenshot_1717779871](https://github.com/tanishaa-p/first/assets/143655963/cecc50b5-bede-4e0b-b990-f9bd29ba2e4c)
+
 
 
 A very basic Flutter application page to explore widgets and containers and their attributes. 
